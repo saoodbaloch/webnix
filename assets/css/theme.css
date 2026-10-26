@@ -1,0 +1,7 @@
+/* Sirf yahan se colors/fonts badlo */
+:root{
+  --bg:#05070d; --text:#fff; --muted:rgba(255,255,255,.72);
+  --sky:#3b78bd; --panel:rgba(20,30,48,.82); --line:rgba(255,255,255,.14);
+  --accent:#2fc29b; --accent2:#1f9d84; --wa:#25d366;
+  --font:'Outfit',system-ui,sans-serif;
+}
